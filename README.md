@@ -4,7 +4,7 @@ Racket
 Turtle
 ------
 In preparation of the turtle system's use please download the file <tt>racketturtle.rkt</tt> and save it in your current working directory.
-Create a new file, copy and paste the code below to the very beginning of that file, and save the file subsequently.
+Create a new file, copy and paste the code below to the very beginning of that file, and subsequently save it.
 <pre><code>#lang racket
 (require "racketturtle.rkt")
 (define width 800)   ; determines the window’s size (turtles’ playground)
